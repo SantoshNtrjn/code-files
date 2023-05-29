@@ -1,4 +1,4 @@
-from replit import clear
+import os
 import art
 print(art.logo)
 
@@ -18,8 +18,8 @@ while start:
   bidders_dict[user_name] = bid_amount
   is_there_bidders = input("Are there any other bidders? Type 'yes' or 'no'.\n").lower()
   if is_there_bidders == "yes":
-    clear()
+    os.system('cls')
   elif is_there_bidders == "no":
-    clear()
+    os.system('cls')
     highest_bid(dict = bidders_dict)
     start = False
