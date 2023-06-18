@@ -1,2 +1,2 @@
 # code-files
-A Compilation of my mini-projects and programs.
+A compilation of my mini-projects and programs.
