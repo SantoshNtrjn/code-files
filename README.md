@@ -1,2 +1,2 @@
 # code-files
-Contains my personal projects and programs.
+A Compilation of my mini-projects and programs.
